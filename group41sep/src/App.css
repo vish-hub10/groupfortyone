@@ -1,9 +1,6 @@
-.main{
-  text-align: center;
-  justify-content: center;
-  display: flex;
-  padding: 90px 0 90px 0;
-  background-color: green;
+body{
+  padding:0;
+  margin:0;
 }
 
 .sub-main{
@@ -17,3 +14,16 @@
   background-color: white;
 }
 
+input{
+  width: 300px;
+  height: 50px;
+  border-radius: 60px;
+
+}
+.username{
+  width: 100px;
+  height:50px;
+  position: absolute;
+  padding: 14px 0 0 25px;
+
+}
